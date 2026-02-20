@@ -24,3 +24,6 @@ Thumbs.db  # Windows
 
 # Текстовый файл
 tmp_data.txt
+
+# env file
+.env
